@@ -20,13 +20,9 @@ https://docs.google.com/presentation/d/12_-ryGUHVLfT6PVjKZN4yU-IFPaJArez/edit
 
 ---
 
-## 2. Tạo Branch Từ ClickUp (Hoặc Thủ Công)
+## 2. Tạo Branch Thủ Công
 
-### Option 1: Dùng ClickUp GitHub Integration
-
-- Tự động tạo branch từ task.
-
-### Option 2: Tạo thủ công trên GitHub:
+### Tạo thủ công trên GitHub:
 
 ```bash
 # Clone repo (nếu chưa có)
