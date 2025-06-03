@@ -1,6 +1,6 @@
-# Git Flow Demo: Triển khai task "Login API"
+# Git Flow Demo: Triển khai task "Homepage UI"
 
-Dưới đây là hướng dẫn chi tiết từng bước triển khai Git Flow cho task **"Homepage UI "**, kết hợp **GitHub** và **ClickUp**.
+Dưới đây là hướng dẫn chi tiết từng bước triển khai Git Flow cho task **"Homepage UI"**, kết hợp **GitHub** và **ClickUp**.
 
 ---
 
@@ -109,7 +109,7 @@ git push origin feature/homepage-ui
 
 Sau khi được approve:
 
-- Merge PR: Chọn **"Squash and Merge"** để gộp commit.
+- Merge PR: Chọn **"Merge"** để gộp commit.
 - Delete branch: Xóa branch `feature/homepage-ui` sau khi merge.
 
 ---
