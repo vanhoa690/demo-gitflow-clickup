@@ -4,6 +4,10 @@ Dưới đây là hướng dẫn chi tiết từng bước triển khai Git Flow
 
 ---
 
+# Slide
+
+https://docs.google.com/presentation/d/12_-ryGUHVLfT6PVjKZN4yU-IFPaJArez/edit
+
 ## 1. Tạo Task Trên ClickUp
 
 **Bước 1**: Trưởng nhóm tạo task trên ClickUp:
@@ -26,8 +30,8 @@ Dưới đây là hướng dẫn chi tiết từng bước triển khai Git Flow
 
 ```bash
 # Clone repo (nếu chưa có)
-git clone https://github.com/your-project.git
-cd your-project
+git clone https://github.com/vanhoa690/demo-gitflow-clickup.git
+cd demo-gitflow-clickup
 
 # Tạo branch mới từ develop
 git checkout develop
