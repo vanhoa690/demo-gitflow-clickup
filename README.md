@@ -1,6 +1,6 @@
-# Git Flow Demo: Triển khai task "Homepage UI"
+# Github Flow Demo: Triển khai task "Homepage UI"
 
-Dưới đây là hướng dẫn chi tiết từng bước triển khai Git Flow cho task **"Homepage UI"**, kết hợp **GitHub** và **ClickUp**.
+Dưới đây là hướng dẫn chi tiết từng bước triển khai Github Flow cho task **"Homepage UI"**, kết hợp **GitHub** và **ClickUp**.
 
 ---
 
